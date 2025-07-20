@@ -11,7 +11,7 @@
 - 🧠 training my brain on machine learning & AI
 - 🛠️ building random tools so I don’t have to do boring stuff manually
 - 🧪 experimenting with unsupervised learning (a bit like my life)
-- 🐍 python is my love language
+- 🐍 python is my love language 
 
 ---
 
