@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hey, I'm Nilsu 👽</h1>
+<h2 align="center">Hey, I'm Nilsu 👽</h2>
 <p align="center"><br> i write code that sometimes works and often learns. <br> fueled by coffee, curiosity, and the occasional existential bug.  <br></p><br>🧠 training my brain on machine learning & AI<br> 🛠️ building random tools so I don’t have to do boring stuff manually<br> 🧪 experimenting with unsupervised learning (a bit like my life)<br> 🐍 python is my love language<br>🤹‍♀️ skills I claim to have (until proven otherwise)<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
