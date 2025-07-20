@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">hey, i'm Nilsu 👽</h1>
-<p align="center"><br>  i write code that sometimes works and often learns. <br> fueled by coffee, curiosity, and the occasional existential bug.  <br></p><br>💾 currently uploading...<br><br>- 🧠 training my brain on machine learning & AI<br>- 🛠️ building random tools so I don’t have to do boring stuff manually<br>- 🧪 experimenting with unsupervised learning (a bit like my life)<br>- 🐍 python is my love language<br><br>---### 🤹‍♀️ skills I claim to have (until proven otherwise)<br><br>`Python` `SQL` `Flask` `Streamlit`  <br>`Scikit-learn` `Pandas` `XGBoost` `NLP`  <br>`Docker (still fighting)` `AWS (still exploring)`  <br><br>---<br><br>git commit -m "turning coffee into ~code~ bugs"<br>
+<p align="center"><br>  i write code that sometimes works and often learns. <br> fueled by coffee, curiosity, and the occasional existential bug.  <br></p><br>💾 currently uploading...<br> 🧠 training my brain on machine learning & AI<br> 🛠️ building random tools so I don’t have to do boring stuff manually<br> 🧪 experimenting with unsupervised learning (a bit like my life)<br> 🐍 python is my love language<br>🤹‍♀️ skills I claim to have (until proven otherwise)<br><br>`Python` `SQL` `Flask` `Streamlit`  <br>`Scikit-learn` `Pandas` `XGBoost` `NLP`  <br>`Docker (still fighting)` `AWS (still exploring)`  <br><br>---<br><br>git commit -m "turning coffee into ~code~ bugs"<br>
 
 
 <h3 align="left">Connect with me:</h3>
