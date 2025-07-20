@@ -8,7 +8,7 @@
 
 ### 💾 currently uploading...
 
-- 🧠 training my brain on machine learning & AI
+- 🧠 training my brain on machine learning & AI <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 - 🛠️ building random tools so I don’t have to do boring stuff manually
 - 🧪 experimenting with unsupervised learning (a bit like my life)
 - 🐍 python is my love language 
