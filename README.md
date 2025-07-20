@@ -1,7 +1,7 @@
-<h1 align="center">hey, i'm sude 👽</h1>
+<h1 align="center">Hey, I'm Nilsu 👽</h1>
 <p align="center">
-  i write code that sometimes works and often learns.  
-  fueled by coffee, curiosity, and the occasional existential bug.  
+  I write code that sometimes works and often learns.  
+  Fueled by coffee, curiosity, and the occasional existential bug.  
 </p>
 
 ---
