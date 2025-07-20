@@ -22,10 +22,6 @@
 `Docker (still fighting)` `AWS (still exploring)`  
 
 ---
-
-### 📦 latest commit: life updates
-
-```bash
 git commit -m "turning coffee into ~code~ bugs"
 
 <picture>
@@ -39,3 +35,8 @@ git commit -m "turning coffee into ~code~ bugs"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=nilsalci&show_icons=true" />
 </picture>
+
+
+### 📦 latest commit: life updates
+
+```bash
