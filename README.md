@@ -24,7 +24,7 @@
 ---
 git commit -m "turning coffee into ~code~ bugs"
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilsalc)](https://github.com/nilsalci/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilsalci)](https://github.com/nilsalci/github-readme-stats)
 
 <picture>
   <source
