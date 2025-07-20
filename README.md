@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">hey, i'm sude 👽</h1>
+<p align="center">
+  i write code that sometimes works and often learns.  
+  fueled by coffee, curiosity, and the occasional existential bug.  
+</p>
 
-<!--
-**nilsalci/nilsalci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💾 currently uploading...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 training my brain on machine learning & AI
+- 🛠️ building random tools so I don’t have to do boring stuff manually
+- 🧪 experimenting with unsupervised learning (a bit like my life)
+- 🐍 python is my love language
+
+---
+
+### 🤹‍♀️ skills I claim to have (until proven otherwise)
+
+`Python` `SQL` `Flask` `Streamlit`  
+`Scikit-learn` `Pandas` `XGBoost` `NLP`  
+`Docker (still fighting)` `AWS (still exploring)`  
+
+---
+
+### 📦 latest commit: life updates
+
+```bash
+git commit -m "turning coffee into ~code~ bugs"
